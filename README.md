@@ -1,4 +1,4 @@
-# AI-Powered Mock Interview & Hiring Recommendation System
+# AI-Mock Interview System
 
 An AI-driven technical interview platform that evaluates candidates using:
 
